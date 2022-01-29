@@ -1,0 +1,22 @@
+tble = document.getElementById("age-table")
+
+lbls = document.querySelectorAll("label")
+
+lbls
+
+tds = document.getElementsByTagName("td")
+
+tds[0]
+
+frm = document.querySelector("form")
+
+inpt = document.querySelector("input")
+
+inpt = document.querySelectorAll("input")
+
+inpt[1]
+
+
+
+
+
